@@ -4,9 +4,8 @@
 <body>
 <p><b>Differential Calculus</b></p>
 <ul>
-  <li>Implicit Differentiation-HW5.Q6</li>
-  <li>Implicit Differentiation-HW5.Q6</li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q6.pdf" target="_blank">Implicit Differentiation-HW5.Q6</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q7.pdf" target="_blank">Implicit Differentiation-HW5.Q7</a></li>
 </ul>
 </body>
 
