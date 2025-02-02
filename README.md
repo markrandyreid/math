@@ -7,6 +7,7 @@
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q6.pdf" target="_blank">Implicit Differentiation-HW5.Q6</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q7.pdf" target="_blank">Implicit Differentiation-HW5.Q7</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q8.pdf" target="_blank">Implicit Differentiation-HW5.Q8</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q9.pdf" target="_blank">Implicit Differentiation-HW5.Q9</a></li>
 </ul>
 </body>
 
