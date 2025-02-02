@@ -1,5 +1,5 @@
 <h1>Mathematics</b></h1>
-<p>Contains hand written academic work in PDF format for <strong>grading and "show your work purposes"</strong>.</p>
+<p>Contains hand written academic work in PDF format for <strong>grading and "show your work purposes"</strong>only!</p>
 <br>
 <body>
 <p><b>Differential Calculus</b></p>
