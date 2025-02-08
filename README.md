@@ -6,6 +6,7 @@
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q13.pdf" target="_blank">Defining a Limit-HW1.Q13</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q6.pdf" target="_blank">Implicit Differentiation-HW5.Q6</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q7.pdf" target="_blank">Implicit Differentiation-HW5.Q7</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q8.pdf" target="_blank">Implicit Differentiation-HW5.Q8</a></li>
