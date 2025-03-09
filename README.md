@@ -3,6 +3,7 @@
 <br>
 <body>
 <p><b>Differential Calculus</b></p>
+<p>Homework/p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
@@ -17,6 +18,10 @@
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q9.pdf" target="_blank">Implicit Differentiation-HW5.Q9</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q10.pdf" target="_blank">Implicit Differentiation-HW5.Q10</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q12.pdf" target="_blank">Implicit Differentiation-HW5.Q12</a></li>
+</ul>
+<p>Exams</p>
+<ul>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q2.pdf" target="_blank">Test1-Q2</a></li>
 </ul>
 </body>
 
