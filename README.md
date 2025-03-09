@@ -20,6 +20,7 @@
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q12.pdf" target="_blank">Implicit Differentiation-HW5.Q12</a></li>
 </ul>
 <p>Exams</p>
+  <p>Test 1</p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q2.pdf" target="_blank">Test1-Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q3.pdf" target="_blank">Test1-Q3</a></li>
@@ -28,6 +29,8 @@
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q10.pdf" target="_blank">Test1-Q10</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q15.pdf" target="_blank">Test1-Q15</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q16.pdf" target="_blank">Test1-Q16</a></li>
+  <br>
+  <p>Test 2</p>
 </ul>
 </body>
 
