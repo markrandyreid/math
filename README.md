@@ -3,7 +3,7 @@
 <br>
 <body>
 <p><b>Differential Calculus</b></p>
-<p>Homework/p>
+<p>Homework</p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
@@ -22,6 +22,7 @@
 <p>Exams</p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q2.pdf" target="_blank">Test1-Q2</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q3.pdf" target="_blank">Test1-Q3</a></li>
 </ul>
 </body>
 
