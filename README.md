@@ -23,6 +23,7 @@
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q2.pdf" target="_blank">Test1-Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q3.pdf" target="_blank">Test1-Q3</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q5.pdf" target="_blank">Test1-Q5</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q10.pdf" target="_blank">Test1-Q10</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q15.pdf" target="_blank">Test1-Q15</a></li>
 </ul>
