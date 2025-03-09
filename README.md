@@ -35,6 +35,7 @@
   <p>Test 2</p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/test2.q1.pdf" target="_blank">Question 1</a></li>
+  <li><a href="https://github.com/markrandyreid/math/blob/main/test2.q2.pdf" target="_blank">Question 2</a></li>
 </ul>
   <hr>
 </body>
