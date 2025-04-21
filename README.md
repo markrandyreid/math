@@ -1,9 +1,10 @@
 <h1>Mathematics</b></h1>
-<p>Contains hand written academic work in PDF format for <strong>grading and "show your work purposes"</strong>only!</p>
+<p>Contains hand written academic work  for <strong>grading and "show your work purposes"</strong>only!</p>
 <br>
 <body>
-<p><b>Differential Calculus</b></p>
-<p>Homework</p>
+<button type="button" class="Diffential Calculus">Open Collapsible</button>
+<div class="content">
+  <p>Homework</p>
 <ul>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
@@ -19,6 +20,8 @@
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q10.pdf" target="_blank">Implicit Differentiation-HW5.Q10</a></li>
   <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q12.pdf" target="_blank">Implicit Differentiation-HW5.Q12</a></li>
 </ul>
+  </div>
+  
   <hr>
 <p>Exams</p>
   <p>Test 1</p>
