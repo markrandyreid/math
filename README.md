@@ -5,7 +5,7 @@
 <p>Calculus 1 introduces the fundamental concepts of differential and integral calculus, providing the mathematical tools needed to analyze change and motion. The course begins with a review of functions and limits, then moves into the definition and computation of derivatives, exploring their interpretation as rates of change and slopes of tangent lines. Students apply differentiation techniques to solve problems involving optimization, motion, and related rates. The latter part of the course introduces definite and indefinite integrals, the Fundamental Theorem of Calculus, and basic applications of integration such as computing area under a curve.</p>
 
 <details name="df_hw">
-  <summary>Homework</summary>
+  <summary><strong>Homework</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
@@ -24,7 +24,7 @@
 </details>
 
 <details name="df_exams">
-  <summary>Exams</summary>
+  <summary><strong>Exams</strong></summary>
   <ul style="padding-left: 30px;">
     <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q2.pdf" target="_blank">Test1-Q2</a></li>
     <li><a href="https://github.com/markrandyreid/math/blob/main/test1.q3.pdf" target="_blank">Test1-Q3</a></li>
@@ -43,7 +43,7 @@
 <h2>Calculus 2</h2>
 <p>Calculus 2 builds upon foundational concepts from Calculus 1, focusing primarily on advanced integration techniques, applications of the definite integral, and an introduction to infinite sequences and series. Students learn a variety of methods to evaluate complex integrals, such as integration by parts, trigonometric substitution, and partial fractions, and apply these techniques to solve real-world problems involving area, volume, work, and arc length.</p>
 <details name="c2_exams">
-  <summary>Exams</summary>
+  <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw5.q12.pdf" target="_blank">Implicit Differentiation-HW5.Q12</a></li>
    </ul>    
