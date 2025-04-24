@@ -7,7 +7,7 @@
 <details name="df_hw">
   <summary><strong>Homework</strong></summary>
    <ul style="padding-left: 30px;">
-     <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
+     <li><a href="https://github.com/markrandyreid/math/homework/blob/main/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q13.pdf" target="_blank">Defining a Limit-HW1.Q13</a></li>  
      <li><a href="https://github.com/markrandyreid/math/blob/main/calc1.hw1.q14.pdf" target="_blank">Defining a Limit-HW1.Q14</a></li>  
