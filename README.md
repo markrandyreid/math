@@ -46,8 +46,10 @@
   <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank">Test 2: Topics 2</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank">Test 3: Topics 3 and 4</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test4.04.19.25.pdf" target="_blank">Test 4: Topics 5 and 6</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank">Test 5: Topics 7, 8 and 9</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank">Test 6: Final Comprehensive Exam</a></li>
    </ul>    
 </details>
 
