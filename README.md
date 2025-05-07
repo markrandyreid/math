@@ -45,7 +45,7 @@
 <details name="c2_exams">
   <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test1.03.19.25.pdf" target="_blank">Test 1: Topics 1 - Logarithmic, Exponential, Trigonometric & Inverse Functions
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test1.03.19.25.pdf" target="_blank"><b>Test 1</b>: Topics 1 - Logarithmic, Exponential, Trigonometric & Inverse Functions
  </a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank">Test 2: Topics 2 -  Differential Equations</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank">Test 3: Topics 3, 4 - Area between curves and Volume,  Work, Arc Length, Moments, Fluid Force</a></li>
