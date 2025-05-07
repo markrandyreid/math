@@ -45,12 +45,12 @@
 <details name="c2_exams">
   <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test1.03.19.25.pdf" target="_blank"><b>Test 1:</b>Topic 1 (Logarithmic, Exponential, Trigonometric & Inverse Functions)
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test1.03.19.25.pdf" target="_blank"><b>Test 1: </b>Topic 1 (Logarithmic, Exponential, Trigonometric & Inverse Functions)
  </a></li>
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank"><b>Test 2:</b>Topic 2 (Differential Equations)</a></li>
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank"><b>Test 3:</b>Topics 3 & 4 (Area between curves & Volume,  Work, Arc Length, Moments, Fluid Force)</a></li>
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test4.04.19.25.pdf" target="_blank"><b>Test 4:</b>Topics 5 & 6 (Integration by Parts, Trig Integrals, Trig Sub, Partial fractions, Numerical Integration, Improper Integrals</a></li>
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank"><b>Test 5:</b>Topics 7, 8 & 9 (Sequences, Series, Convergence, Int Test, P Series, Comparison, Alternating, Ratio and Root Series,  Taylor Polynomials and Series, Power Series)</a></li>
-     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank"><b>Test 6:</b>Final Comprehensive Exam</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank"><b>Test 2: </b>Topic 2 (Differential Equations)</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test2.04.09.25.pdf" target="_blank"><b>Test 3: </b>Topics 3 & 4 (Area between curves & Volume,  Work, Arc Length, Moments, Fluid Force)</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test4.04.19.25.pdf" target="_blank"><b>Test 4: </b>Topics 5 & 6 (Integration by Parts, Trig Integrals, Trig Sub, Partial fractions, Numerical Integration, Improper Integrals</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank"><b>Test 5: </b>Topics 7, 8 & 9 (Sequences, Series, Convergence, Int Test, P Series, Comparison, Alternating, Ratio and Root Series,  Taylor Polynomials and Series, Power Series)</a></li>
+     <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test5.05.03.25.pdf" target="_blank"><b>Test 6: </b>Final Comprehensive Exam</a></li>
    </ul>    
 </details>
